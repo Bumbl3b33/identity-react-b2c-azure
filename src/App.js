@@ -1,7 +1,7 @@
 import React from 'react';
 import {Routes, Route } from "react-router-dom";
 import { MsalProvider } from "@azure/msal-react";
-import Home from './Home';
+import Home from './components/Home';
 
 function App({ instance }) {
   return (

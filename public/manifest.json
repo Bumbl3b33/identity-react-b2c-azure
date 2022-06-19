@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "React App Authenticating via Azure AD B2C",
   "icons": [
     {
       "src": "favicon.ico",
