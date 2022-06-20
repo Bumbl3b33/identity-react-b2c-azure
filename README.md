@@ -15,8 +15,8 @@ In the project directory, you can run:
 Navigate to the `/src/config/msalConfig.js` and update the following
 
 - **clientId** - Enter the Application (client) ID of the app registered on the AD B2C Tenant
-- **authority** - Enter the Sign Up / Sign In URL from the created User Flows  
-- **knownAuthorities** - Enter the Domain name of your AD B2C tenant
+- **authority** - Replace the &lt;tenant-name&gt; with your tenant's name
+- **knownAuthorities** - Replace the &lt;tenant-name&gt; with your tenant's name
 
 ### `npm install`
 
